@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\zoominandouttest\\zoomintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|solutionrelative:zoominandouttest\\zoomintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\zoominandouttest\\zoominandouttogether.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|solutionrelative:zoominandouttest\\zoominandouttogether.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\zoominandouttest\\zoomouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D24D105-C47E-438D-B3E5-7171DEBB094C}|ZoomInAndOutTest\\ZoomInAndOutTest.csproj|solutionrelative:zoominandouttest\\zoomouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C623770-0378-42C7-9127-6AEF92B62C60}|Sliding\\Sliding.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\sliding\\slidingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C623770-0378-42C7-9127-6AEF92B62C60}|Sliding\\Sliding.csproj|solutionrelative:sliding\\slidingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F120C4-4F2E-45A9-83A3-6F04017912F3}|DragAndDropTests\\DragAndDropTests.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\draganddroptests\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F120C4-4F2E-45A9-83A3-6F04017912F3}|DragAndDropTests\\DragAndDropTests.csproj|solutionrelative:draganddroptests\\draganddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A85973-B571-47F3-A34F-0E1314F307E9}|SwipeTests\\SwipeTests.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\swipetests\\swipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A85973-B571-47F3-A34F-0E1314F307E9}|SwipeTests\\SwipeTests.csproj|solutionrelative:swipetests\\swipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A214CB-1E79-4577-8D0D-D9F387596A92}|ScrollText\\ScrollText.csproj|c:\\users\\halfdone\\desktop\\qa course\\automation\\frontendqa\\frontendautomationtesting\\11.exercise appium mobile - part 2\\appiummobilegestures\\scrolltext\\scrolltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A214CB-1E79-4577-8D0D-D9F387596A92}|ScrollText\\ScrollText.csproj|solutionrelative:scrolltext\\scrolltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZoomInAndOutTogether.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomInAndOutTogether.cs",
+              "RelativeDocumentMoniker": "ZoomInAndOutTest\\ZoomInAndOutTogether.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomInAndOutTogether.cs",
+              "RelativeToolTip": "ZoomInAndOutTest\\ZoomInAndOutTogether.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:09:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZoomOutTest.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomOutTest.cs",
+              "RelativeDocumentMoniker": "ZoomInAndOutTest\\ZoomOutTest.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomOutTest.cs",
+              "RelativeToolTip": "ZoomInAndOutTest\\ZoomOutTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:17:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZoomInTest.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomInTest.cs",
+              "RelativeDocumentMoniker": "ZoomInAndOutTest\\ZoomInTest.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ZoomInAndOutTest\\ZoomInTest.cs",
+              "RelativeToolTip": "ZoomInAndOutTest\\ZoomInTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:16:44.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlidingTest.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\Sliding\\SlidingTest.cs",
+              "RelativeDocumentMoniker": "Sliding\\SlidingTest.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\Sliding\\SlidingTest.cs",
+              "RelativeToolTip": "Sliding\\SlidingTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T07:45:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DragAndDrop.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\DragAndDropTests\\DragAndDrop.cs",
+              "RelativeDocumentMoniker": "DragAndDropTests\\DragAndDrop.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\DragAndDropTests\\DragAndDrop.cs",
+              "RelativeToolTip": "DragAndDropTests\\DragAndDrop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:45:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Swipe.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\SwipeTests\\Swipe.cs",
+              "RelativeDocumentMoniker": "SwipeTests\\Swipe.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\SwipeTests\\Swipe.cs",
+              "RelativeToolTip": "SwipeTests\\Swipe.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:24:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScrollTest.cs",
+              "DocumentMoniker": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ScrollText\\ScrollTest.cs",
+              "RelativeDocumentMoniker": "ScrollText\\ScrollTest.cs",
+              "ToolTip": "C:\\Users\\Halfdone\\Desktop\\QA Course\\Automation\\FrontEndQA\\FrontEndAutomationTesting\\11.Exercise Appium Mobile - Part 2\\AppiumMobileGestures\\ScrollText\\ScrollTest.cs",
+              "RelativeToolTip": "ScrollText\\ScrollTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:50:18.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
